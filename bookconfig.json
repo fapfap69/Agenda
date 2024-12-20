@@ -1,0 +1,29 @@
+{ 
+    "VIEWS": [
+        {
+            "id":1,
+            "nome":"Diario",
+            "viewfile":"./DiarioView.vue",
+            "colore1": "#7BFF00",
+            "colore2": "#56b300",
+            "abilitato":true
+        },
+        {
+            "id":2,
+            "nome":"Scadenze",
+            "viewfile":"./ScadenzeView.vue",
+            "colore1": "#FF7b00",
+            "colore2": "#b35600",
+            "abilitato":true
+        },
+        {
+            "id":3,
+            "nome":"Note",
+            "viewfile":"./NoteView.vue",
+            "colore1": "#007BFF",
+            "colore2": "#0056b3",
+            "abilitato":true
+        }
+    ],
+    "GEOMETRIA" : { "Prima" : "ND"}
+}
